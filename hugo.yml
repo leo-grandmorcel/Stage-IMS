@@ -1,0 +1,31 @@
+baseURL: 'http://example.org/'
+languageCode: en-us
+title: Rapport de stage - 2023
+theme: PaperMod
+
+menu:
+  main:
+    - identifier : À propos
+      name: À propos
+      url: about
+      weight: 10 
+    - identifier : Contact
+      name: Contact
+      url: contact
+      weight: 15
+params:
+  defaultTheme: auto
+  ShowReadingTime: true
+  ShowPostNavLinks: true
+  hideMeta: true
+
+  homeInfoParams:
+    Title: "Bienvenue sur mon rapport de stage \U0001F44B"
+    Content: "Stage dans le laboratoire IMS pendant l'année 2023"
+
+
+  socialIcons:
+    - name: "Github"
+      url: "https://github.com/leo-grandmorcel"
+    - name: "Linkedin"
+      url: "https://www.linkedin.com/in/leo-grandmorcel/"
