@@ -1,7 +1,8 @@
 baseURL: 'http://example.org/'
 languageCode: en-us
 title: Rapport de stage - 2023
-theme: PaperMod
+theme: ["hugo-embed-pdf-shortcode", "PaperMod"]
+enableInlineShortcodes: true
 
 menu:
   main:

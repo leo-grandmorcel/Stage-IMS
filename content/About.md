@@ -4,7 +4,7 @@ layout: "apropos"
 url: "/apropos/"
 ---
 
-Je m'appelle **Léo Grand-Morcel**, je suis actuellement étudiant en **Data Engineering** à [Ynov Bordeaux](https://ynov-bordeaux.com/). Dans le cadre de ma formation, j'ai eu l'opportunité d'effectuer un stage au **Laboratoire IMS** à Bordeaux afin de valider ma formation. Vous pouvez retrouver mon curriculum vitae [ici](CV.pdf).
+Je m'appelle **Léo Grand-Morcel**, je suis actuellement étudiant en **Data Engineering** à [Ynov Bordeaux](https://ynov-bordeaux.com/). Dans le cadre de ma formation, j'ai eu l'opportunité d'effectuer un stage au **Laboratoire IMS** à Bordeaux afin de valider ma formation. Vous pouvez retrouver mon curriculum vitae {{< embed-pdf url="/CV.pdf" >}}
 
 Passionné par les ***nouvelles technologies***, je suis toujours à la recherche de nouveaux défis pour améliorer mes compétences et mes connaissances. Je suis une personne très ***curieuse***, et j'aime apprendre de nouvelles choses chaque jour. J'ai choisi ce stage pour développer davantage mes compétences dans le domaine de ***l'ingénierie des données***, et pour découvrir le monde de la recherche. Ayant grandi dans le cadre captivant des **vignobles de Cognac**, ce stage a également été l'occasion pour moi de travailler dans le monde de la vigne, et d'en apprendre davantage sur la recherche menée dans ce domaine.
 
