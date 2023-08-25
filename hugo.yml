@@ -7,7 +7,7 @@ menu:
   main:
     - identifier : À propos
       name: À propos
-      url: about
+      url: apropos
       weight: 10 
     - identifier : Contact
       name: Contact

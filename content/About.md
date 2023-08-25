@@ -1,6 +1,6 @@
 ---
 title: "À propos de moi"
-layout: "about"
+layout: "apropos"
 url: "/apropos/"
 ---
 
