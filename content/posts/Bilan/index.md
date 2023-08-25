@@ -3,7 +3,6 @@ title: "Bilan de Stage"
 date: 2023-06-16
 ---
 
-# Bilan de Stage
 ## Réflexion sur l'Expérience Professionnelle
 
 Mon stage au laboratoire IMS a été une expérience incroyablement formatrice qui m'a permis de plonger au cœur du métier de Machine Learning Engineer. Cette occasion m'a offert une vue d'ensemble concrète de l'application des connaissances universitaires dans un contexte professionnel.
