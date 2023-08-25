@@ -1,5 +1,5 @@
-baseURL: 'http://example.org/'
-languageCode: en-us
+baseurl: 'Stage-IMS'
+languageCode: fr-FR
 title: Rapport de stage - 2023
 theme: ["hugo-embed-pdf-shortcode", "PaperMod"]
 enableInlineShortcodes: true
