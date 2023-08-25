@@ -9,8 +9,8 @@ Chaque modèle a été entrainé pendant 200 époques avec un taux d'apprentissa
 Nos indices de mesures sont la préçision et l'IoU (Intersection over Union). L'IoU est la proportion de pixels correctement prédits par rapport au nombre total de pixels. La précision est la proportion de pixels correctement prédits par rapport au nombre de pixels prédits.
 Voici les résultats obtenus, les titres Resize_1024, Patched_1024, Patched_512, Patched_256 correspondent aux méthodes d'entrainement décrites ci-dessus :
 
-![Accuracy](/images/Accuracy.png)
-![IoU](/images/MIoU.png)
+![Accuracy](Accuracy.png)
+![IoU](MIoU.png)
 
 
 On peut voir que la méthode la plus efficace est de séléctionner aléatoirement une zone de 512x512 pixels.

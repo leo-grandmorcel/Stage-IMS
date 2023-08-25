@@ -6,7 +6,7 @@ date: 2023-06-19
 Le but de ce projet était de développer un réseau de neurones pour la segmentation d'images de vignes. Pour ce faire, j'ai utilisé un réseau de neurones U-Net, qui est un réseau de neurones convolutifs, très utilisé pour la segmentation d'images médicales, notamment pour la segmentation de cellules. Mais il peut être performant pour la segmenation d'autres objets comme les feuilles de vignes ou des symptômes de maladie.
 
 ## Architecture du réseau de neurones U-Net
-![U-Net architecture](/images/U-Net.png) 
+![U-Net architecture](U-Net.png) 
 Il est composé d'un encodeur et d'un décodeur. L'encodeur est utilisé pour extraire les caractéristiques de l'image, tandis que le décodeur est utilisé pour reconstruire l'image segmentée à partir des caractéristiques extraites par l'encodeur. Le réseau de neurones U-Net utilisé a été pré-entrainé sur le jeu de données ImageNet, qui est un jeu de données d'images de 1000 classes différentes. Il a ensuite été entrainé sur un jeu de données de 200 images de vignes, qui ont été annoté manuellement.
 
 Le modèle est disponible via la librairie PyTorch, et peut être utilisé comme suit :

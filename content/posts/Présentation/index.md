@@ -2,7 +2,7 @@
 title: "Présentation"
 date: 2023-06-21
 cover:
-    image: "/images/vignes.jpg"
+    image: "vignes.jpg"
     alt: "Vineyard"
 ---
 
