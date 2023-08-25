@@ -18,3 +18,6 @@ ou site Internet de l’entreprise. Vous pouvez, par exemple, décrire :
 
 Crée en 2007 suite à la fusion de trois laboratoires, l'IMS est rattaché au CNRS, l'Université de Bordeaux et Bordeaux Aquitaine INP. Situé dans le Campus Universitaire de Bordeaux, à Talence, il compte environ 350 personnes dont 135 chercheurs et enseignants-chercheurs, 150 doctorants et postdoctorants, ainsi que 65 ingénieurs et techniciens.
 Le laboratoire en 10 groupe de recherches, j'ai eu l'opportunité de travailler dans le groupe **Signal and Image Processing** au sein de l'équipe **Motive** (MOdels, Texture, Images,VolumEs). Se concentrant sur le développement de nouveaux algorithmes pour le traitement d'images de haute résolution afin de caractériser des phénomènes observables. 
+
+Le groupe dans lequel j'ai eu l'opportunité de travailler est composé de 3 doctorants, un ingénieur développpement systèmes embarqués, un ingénieur mécatronique, ainsi qu'un ingénieur, professeur agro électronique. 
+Parmis lesquelles j'ai eu l'opportunité d'assister sur divers projets.
